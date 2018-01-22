@@ -1,6 +1,6 @@
 import java.io.UnsupportedEncodingException;
 
-import com.yilin.netty.commons.utils.Base64;
+import com.mulhyac.netty.commons.utils.Base64;
 
 public class Base64Test {
 
